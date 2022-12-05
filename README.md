@@ -20,3 +20,7 @@ struct Produto{
 •	Venda de produtos    
 •	Relatório por tipo de produto (listagem de produtos ordenados por tipo)  
 •	Relatórios de vendas    
+Cronograma provável:
+16/12/22 -> controle de acesso, cadastro de produtos, alteração de produtos, exclusão de produtos, busca produtos.
+02/01/23 -> venda de produtos, relatório por tipo, relatório de vendas.
+09/01/23 -> revisão do trabalho e entrega do projeto;
