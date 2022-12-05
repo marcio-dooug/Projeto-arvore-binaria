@@ -1,5 +1,5 @@
 # Projeto-arvore-binaria
-Projéto de Árvore binária de busca
+Projeto de Árvore binária de busca
 DEFINIÇÕES DO PROJETO:
  
 Loja de conveniência usando Árvores Binárias
